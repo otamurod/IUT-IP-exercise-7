@@ -1,1 +1,3 @@
-# IUT-IP-exercise-7
+ID: U1810069
+SEC: 001
+Auhtor: SAFAROV OTAMUROD
